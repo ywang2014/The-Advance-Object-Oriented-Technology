@@ -1,4 +1,4 @@
-个人笔记总结，如果有同学愿意加入我们可以使用 `GitHub` ，GitHub 地址稍后放出。全部下载连接均为 Dropbox 存储并提供下载。
+个人笔记总结，如果有同学愿意加入可以使用 [`GitHub`](https://github.com/li-xinyang/The-Advance-Object-Oriented-Technology) 。全部下载连接均为 Dropbox 存储并提供下载。
 
 **[Click to Download](https://www.dropbox.com/s/t0tll30ea8xrire/CourseNote.md?dl=1)**
 
